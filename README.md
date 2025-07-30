@@ -158,7 +158,9 @@ models.py – Django models for the whole project.
 README.md – This file with my planning and explanation.
 
 ## GitHub Repo Link
-- Click here to view the GitHub repo
+-  GitHub repo
+
+    https://github.com/abhinandbhaskar/gemstone-auction-backend.git
 
 
 
